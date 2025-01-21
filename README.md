@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bach Nguyen</h1>
-<h3 align="center">Second year at Long Beach State University interested in full stack development and game design</h3>
+<h3 align="center">Third year at Long Beach State University interested in full stack development and game design</h3>
 
 - 🌱 I’m currently learning **C++, Javascript, Unity, Web Development**
 
