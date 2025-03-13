@@ -22,7 +22,7 @@
 </a>
 
 ### 🏆 Featured Projects  
-- **[ProMatch Analyzer](https://github.com/your-repo-link)** – Machine learning-powered match prediction tool using Scikit-Learn & FastAPI  
+- **ProMatch Analyzer** – Machine learning-powered match prediction tool using Scikit-Learn & FastAPI  
 - **AI Research Assistant Web App** – AI-driven article summarization & recommendation using Hugging Face API  
 - **Bookstore Management System** – A Python-based book cataloging & search system  
 
