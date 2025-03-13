@@ -1,14 +1,29 @@
 <h1 align="center">Hi 👋, I'm Bach Nguyen</h1>
-<h3 align="center">Third year at Long Beach State University interested in full stack development and game design</h3>
+<h3 align="center">Aspiring Data Scientist | Machine Learning & AI Enthusiast</h3>
 
-- 🌱 I’m currently learning **C++, Javascript, Unity, Web Development**
+- 🎓 **Third-year Computer Science Student** at California State University, Long Beach  
+- 📊 Passionate about **Data Analytics, Machine Learning, Deep Learning, and AI**  
+- 🧠 Currently learning **Scikit-Learn, TensorFlow, PyTorch, and Advanced Data Visualization**  
+- 🚀 Building **ProMatch Analyzer** – a machine learning-based League of Legends match predictor  
+- 💡 Exploring AI-powered tools for research and data-driven decision-making  
 
-- 📫 How to reach me **bach.tnguyen@outlook.com**
+### 🔧 Technical Skills  
+- **Programming Languages:** Python, R, C++, TypeScript, JavaScript  
+- **Data Analytics & Machine Learning:** Pandas, NumPy, Scikit-Learn, TensorFlow, PyTorch, Matplotlib  
+- **Web Development:** Next.js, React, Tailwind CSS  
+- **Tools & Platforms:** Git, GitHub, Linux, Tableau  
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/bachtn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bachtn" height="30" width="40" /></a>
-</p>
+### 📫 Connect with Me  
+<a href="https://linkedin.com/in/bachtn" target="blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+</a>
+<a href="mailto:bach.tnguyen@outlook.com">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Email" height="30" width="40" />
+</a>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+### 🏆 Featured Projects  
+- **[ProMatch Analyzer](https://github.com/your-repo-link)** – Machine learning-powered match prediction tool using Scikit-Learn & FastAPI  
+- **AI Research Assistant Web App** – AI-driven article summarization & recommendation using Hugging Face API  
+- **Bookstore Management System** – A Python-based book cataloging & search system  
+
+🚀 Always open to collaboration and new opportunities!
