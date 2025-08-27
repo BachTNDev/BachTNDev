@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bach Nguyen</h1>
 <h3 align="center">Aspiring Data Scientist | Machine Learning & AI Enthusiast</h3>
 
-- 🎓 **Third-year Computer Science Student** at California State University, Long Beach  
+- 🎓 **Fourth-year Computer Science Student** at California State University, Long Beach  
 - 📊 Passionate about **Data Analytics, Machine Learning, Deep Learning, and AI**  
 - 🧠 Currently learning **Scikit-Learn, TensorFlow, PyTorch, and Advanced Data Visualization**  
 - 🚀 Building **ProMatch Analyzer** – a machine learning-based League of Legends match predictor  
