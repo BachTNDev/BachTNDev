@@ -4,7 +4,7 @@
 - 🎓 **Fourth-year Computer Science Student** at California State University, Long Beach  
 - 📊 Passionate about **Data Analytics, Machine Learning, Deep Learning, and AI**  
 - 🧠 Currently learning **Scikit-Learn, TensorFlow, PyTorch, and Advanced Data Visualization**  
-- 🚀 Building **ProMatch Analyzer** – a machine learning-based League of Legends match predictor  
+- 🚀 Building **AshGuard** – a machine learning-based fire app to help users stau safe from wildfires  
 - 💡 Exploring AI-powered tools for research and data-driven decision-making  
 
 ### 🔧 Technical Skills  
@@ -20,9 +20,5 @@
 <a href="mailto:bach.tnguyen@outlook.com">
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Email" height="30" width="40" />
 </a>
-
-### 🏆 Featured Projects  
-- **ProMatch Analyzer** – Machine learning-powered match prediction tool using Scikit-Learn & FastAPI  
-- **AI Research Assistant Web App** – AI-driven article summarization & recommendation using Hugging Face API  
 
 🚀 Always open to collaboration and new opportunities!
